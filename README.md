@@ -7,6 +7,12 @@ an external style sheet.
 
 <br>
 
+The contained HTML page is available via GitHub Pages at the following address:
+
+https://mdecker-mobilecomputing.github.io/CSS_ExtractInlineRules/
+
+<br>
+
 ----
 
 ## License ##
